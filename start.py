@@ -1,0 +1,2 @@
+#simple Hi
+print('hi')
